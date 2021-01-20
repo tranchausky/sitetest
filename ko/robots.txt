@@ -1,5 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: https://dev-yakuza.posstree.com/sitemap.xml
-Sitemap: https://dev-yakuza.posstree.com/en/sitemap.xml
-Sitemap: https://dev-yakuza.posstree.com/ko/sitemap.xml
